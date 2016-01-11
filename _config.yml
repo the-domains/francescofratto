@@ -1,0 +1,28 @@
+name: FrancescoFratto
+favicon: null
+layout_spectrum: 0.7435281856451184
+typography_spectrum: 0.42139053833670914
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.2068265238776803
+  lightness: 0.2959993504919112
+  saturation: 0.6827600777614862
+  rhythmicContrast: 0.055815527914091945
+purpose: []
