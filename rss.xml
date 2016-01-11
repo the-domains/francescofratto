@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Francesco Fratto Photography]]></title>
+        <description><![CDATA[Francesco Fratto Photography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Jan 2016 14:20:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ONE LIGHT]]></title>
+            <description><![CDATA[<article><h1>ONE LIGHT</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6ac8a41a933e4c391f163d0d3934141f0478fb8.jpg"></article>]]></description>
+            <link>undefinedone-light/index.html</link>
+            <guid isPermaLink="false">7a9b3281-8df5-4be8-900a-c34c140359d1</guid>
+            <pubDate>Mon, 11 Jan 2016 14:20:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
